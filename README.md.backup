@@ -10,10 +10,6 @@ Se crea una carpeta que contenga el proyecto usando la terminal de Linux en la c
 
 `mkdir proyecto_facial`
 
-Actualizamos los repositorios de software de Ubuntu usando
-
-`sudo apt-get update`
-
 
 
 
